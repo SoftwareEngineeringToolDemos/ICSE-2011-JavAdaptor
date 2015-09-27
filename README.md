@@ -1,4 +1,5 @@
 #ICSE-2011-JavAdaptor
+A tool that offers unrestricted dynamic software updates (DSUs) for Java
 
 ***
 
