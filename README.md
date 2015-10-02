@@ -13,6 +13,6 @@ This repository is not the original repository for this tool. Here are some link
 In this repository, for JavAdaptor you will find:
 
 - :x: Source code (not available)
-- :x: Executable tool (waiting for author)
+- :x: Executable tool (not available)
 
 This repository was constructed by [Sumit K Tomer] (https://github.com/sktomer) under the supervision of [Emerson Murphy-Hill] (https://github.com/CaptainEmerson). Thanks to [Walter Cazzola] (http://cazzola.di.unimi.it/) for his help in establishing this repository. 
