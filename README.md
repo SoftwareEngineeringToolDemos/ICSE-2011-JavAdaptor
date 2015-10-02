@@ -8,6 +8,7 @@ This repository contains information related to the tool JavAdaptor presented in
 This repository is not the original repository for this tool. Here are some links to the original project:
 
 - The Official [Dissertation Page] (http://edoc2.bibliothek.uni-halle.de/hs/urn/urn:nbn:de:gbv:ma9:1-868)
+- A [video] (https://www.youtube.com/watch?v=jZm0hvlhC-E) demonstrating the tool
 
 In this repository, for JavAdaptor you will find:
 
