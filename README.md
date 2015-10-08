@@ -9,6 +9,7 @@ This repository is not the original repository for this tool. Here are some link
 
 - The Official [Dissertation Page] (http://edoc2.bibliothek.uni-halle.de/hs/urn/urn:nbn:de:gbv:ma9:1-868)
 - A [video] (https://www.youtube.com/watch?v=jZm0hvlhC-E) demonstrating the tool
+- Updated Publication : Mario Pukall, Christian Kästner, Walter Cazzola, Sebastian Götz, Alexander Grebhahn, Reimar Schöter, and Gunter Saake, “JavAdaptor — Flexible Runtime Updates of Java Applications”, Software—Practice and Experience, vol. 43, no. 2, pp. 153–185, February 2013 [PDF] (http://www.cs.cmu.edu/~ckaestne/pdf/SPE12_JavAdaptor.pdf).
 
 In this repository, for JavAdaptor you will find:
 
