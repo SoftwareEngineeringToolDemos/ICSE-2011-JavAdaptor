@@ -5,7 +5,7 @@ A tool that offers unrestricted dynamic software updates (DSUs) for Java
 
 This repository contains information related to the tool JavAdaptor presented in the International Conference on Software Engineering, 2011. The tool was originally presented in [this paper] (http://dl.acm.org/citation.cfm?doid=1985793.1985970).
 
-This repository is not the original repository for this tool. Here are some links to the original project:
+This repository _is not_ the original repository for this tool. Here are some links to the original project:
 
 - The Official [Dissertation Page] (http://edoc2.bibliothek.uni-halle.de/hs/urn/urn:nbn:de:gbv:ma9:1-868)
 - A [video] (https://www.youtube.com/watch?v=jZm0hvlhC-E) demonstrating the tool
