@@ -5,4 +5,6 @@ Here's how you can spin up a Virtual Machine for this tool from scratch :
 3. Navigate to that folder (via bash on Linux or Command Prompt on Windows) and execute the command :  
       "vagrant up --provider virtualbox"
 
-Note : The Virtual Machine will boot up quickly but wait for the "vagrant up" command to complete as it provisions the VM for use.
+Note :  
+ -  The Virtual Machine will boot up quickly but wait for the "vagrant up" command to complete as it provisions the VM for use.
+ -  Base Vagrant Box : [Ubuntu 14.04 Desktop] (https://vagrantcloud.com/box-cutter/boxes/ubuntu1404-desktop)
