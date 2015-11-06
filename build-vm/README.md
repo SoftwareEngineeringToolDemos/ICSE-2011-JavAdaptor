@@ -9,3 +9,6 @@ Note :
  -  The Virtual Machine will boot up quickly but wait for the "vagrant up" command to complete as it provisions the VM for use.
  -  Deploys Base Vagrant Box : [Ubuntu 14.04 Desktop] (https://vagrantcloud.com/box-cutter/boxes/ubuntu1404-desktop)
  -  Installs Eclipse using the [direct link] (http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/helios/R/eclipse-jee-helios-linux-gtk-x86_64.tar.gz). Ensure this link is functional or update the link in [Vagrantfile] (). 
+ -  Default VM Login Credentails:  
+      user: vagrant 
+      password: vagrant
