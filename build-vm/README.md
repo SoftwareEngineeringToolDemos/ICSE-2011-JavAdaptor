@@ -1,6 +1,6 @@
-Here's how you can spin up a VM for this tool from scratch :
+Here's how you can spin up a Virtual Machine for this tool from scratch :
 
-1. Install vagrant and virtualbox (preferrably latest versions) on host OS.
+1. Install vagrant and virtualbox (preferrably latest versions) on host machine.
 2. Copy the Vagrantfile from build-vm folder to the folder where you want to install the VM.
 3. Navigate to that folder (via bash on Linux or Command Prompt on Windows) and execute the command : "vagrant up --provider virtualbox"
 
