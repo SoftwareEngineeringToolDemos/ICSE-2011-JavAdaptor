@@ -3,7 +3,7 @@
 ### Here's how you can spin up a Virtual Machine for JavAdaptor :
 
 1. Install [vagrant] (https://www.vagrantup.com/downloads.html) and [virtualbox] (https://www.virtualbox.org/wiki/Downloads) (preferrably latest versions) on host machine.
-2. Download the [Vagrantfile] () from [build-vm] () folder to the folder on your machine where you want to install the VM.
+2. Download the [Vagrantfile] (Vagrantfile) from [build-vm] () folder to the folder on your machine where you want to install the VM.
 3. Navigate to that folder (via bash on Linux or Command Prompt on Windows) and execute the command :  
       "vagrant up --provider virtualbox"
 
