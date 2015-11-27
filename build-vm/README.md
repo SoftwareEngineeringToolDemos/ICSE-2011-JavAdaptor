@@ -11,8 +11,7 @@ $ vagrant plugin install vagrant-reload
 ```  
 
 #### Steps:  
-1. Download all the files from [build-vm] () folder to the folder on your machine where you want to install the VM. Easiest way would be to git clone the repository and copy the contents of [build-vm] () folder to your VM folder :  
-```  
+1. Download all the files from [build-vm] () folder to the folder on your machine where you want to install the VM. Easiest way would be to git clone the repository and copy the contents of [build-vm] () folder to your VM folder :   ```  
 $ git clone https://github.com/SoftwareEngineeringToolDemos/ICSE-2011-JavAdaptor.git  
 ```  
 2. Navigate to that folder (via bash on Linux or Command Prompt on Windows) and execute the command :  
