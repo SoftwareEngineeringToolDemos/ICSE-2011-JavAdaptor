@@ -31,10 +31,7 @@
  -  The vagrant reload plugin must be installed prior to running the "vagrant up" command.
  -  Vagrant provisioning may take upto 15-20 minutes. Please be patient.
  -  After provisioning completes the Virtual Machine will reboot but wait for the startup applications (Eclipse) to load.  
- -  Default Virtual Machine Login Credentials:  
-    | Username      | Password      |  
-    |:-------------:|:-------------:|  
-    |vagrant        |vagrant        |  
+ -  Default Virtual Machine Login Credentials:  | Username: `vagrant` | Password: `vagrant` |
 
 #### Acknowledgements :  
  -  Deploys Base Vagrant Box : Ubuntu 14.04 Desktop: [box-cutter/boxes/ubuntu1404-desktop] (https://vagrantcloud.com/box-cutter/boxes/ubuntu1404-desktop)  
