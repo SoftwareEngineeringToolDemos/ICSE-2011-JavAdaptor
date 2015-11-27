@@ -20,10 +20,11 @@ sudo wget -O /opt/eclipse-java-luna-SR2-linux-gtk-x86_64.tar.gz http://ftp.fau.d
 cd /opt/ && sudo tar -zxvf eclipse-*.tar.gz
 sudo cp /vagrant/*.jar /opt/eclipse/plugins/
 
-# Extract SnakeDemo Java Project to Eclipse workspace
+# Extract SnakeDemo Java Project to Eclipse workspace and copy metadata
 mkdir /home/vagrant/workspace/
 unzip /vagrant/SnakeDemo.zip -d /home/vagrant/workspace/
+unzip /vagrant/metadata.zip -d /home/vagrant/workspace/
 
 # Add Eclipse to startup applications before reloading VM
-mkdir /home/vagrant/.config/autostart/
+mkdir -p /home/vagrant/.config/autostart/
 cp /home/vagrant/Desktop/Eclipse.desktop /home/vagrant/.config/autostart/
