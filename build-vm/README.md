@@ -22,14 +22,15 @@
     ```  
     $ vagrant up --provider virtualbox  
     ```  
-3. Vagrant will start the VM and provision it. Please be patient as the VM will reload after provisioning completes.  
-4. Eclipse should launch on startup. You will find a Readme.txt file on Desktop. Proceed with the steps mentioned on that file.  
+4. Vagrant will start the VM and provision it. Please be patient as the VM will reload after provisioning completes.  
+5. After reload, Eclipse should launch on startup with the JavAdaptor plugin installed and visible.
+6. Refer to the Readme.txt file on VM's Desktop for steps to run the tool.  
 
 #### Note :   
  -  After provisioning completes the Virtual Machine will reboot but wait for the startup applications to load.  
  -  Default VM Login Credentials:  
     ```  
-    user: vagrant  
+    user: vagrant  </br>
     password: vagrant  
     ```  
 
