@@ -3,32 +3,35 @@
 ### Here's how you can spin up a Virtual Machine for JavAdaptor ...  
 
 #### Pre-requisites:  
-1. Download and Install [Vagrant] (https://www.vagrantup.com/downloads.html)  
-2. Download and Install [VirtualBox] (https://www.virtualbox.org/wiki/Downloads)  
-3. Install [vagrant-reload] (https://github.com/aidanns/vagrant-reload) plugin using the command :  
-```  
-$ vagrant plugin install vagrant-reload  
-```  
+1. Obtain the JavAdaptor plugin (.jar file) from the [Authors] (http://cazzola.di.unimi.it/). Since the tool is not open-source the plugin is not available on this repo.  
+2. Place the JavAdaptor plugin in the folder where you wish to install the Virtual Machine.  
+3. Download and Install [Vagrant] (https://www.vagrantup.com/downloads.html)  
+4. Download and Install [VirtualBox] (https://www.virtualbox.org/wiki/Downloads)  
+5. Install [vagrant-reload] (https://github.com/aidanns/vagrant-reload) plugin using the command :  
+    ```  
+    $ vagrant plugin install vagrant-reload  
+    ```  
 
 #### Steps:  
 1. Download all the files from [build-vm] () folder to the folder on your machine where you want to install the VM. Easiest way would be to git clone the repository and copy the contents of [build-vm] () folder to your VM folder :  
-```  
-$ git clone https://github.com/SoftwareEngineeringToolDemos/ICSE-2011-JavAdaptor.git  
-```  
-2. Navigate to that folder (via bash on Linux or Command Prompt on Windows) and execute the command :  
-```  
-$ vagrant up --provider virtualbox  
-```  
+    ```  
+    $ git clone https://github.com/SoftwareEngineeringToolDemos/ICSE-2011-JavAdaptor.git  
+    ```  
+2. Note that the JavAdaptor plugin should already be present in this VM installation folder (see Pre-requisites above).  
+3. Navigate to that folder (via bash on Linux or Command Prompt on Windows) and execute the command :  
+    ```  
+    $ vagrant up --provider virtualbox  
+    ```  
 3. Vagrant will start the VM and provision it. Please be patient as the VM will reload after provisioning completes.  
 4. Eclipse should launch on startup. You will find a Readme.txt file on Desktop. Proceed with the steps mentioned on that file.  
 
 #### Note :   
  -  After provisioning completes the Virtual Machine will reboot but wait for the startup applications to load.  
  -  Default VM Login Credentials:  
-```  
-user: vagrant  
-password: vagrant  
-```  
+    ```  
+    user: vagrant  
+    password: vagrant  
+    ```  
 
 #### Acknowledgements :  
  -  Deploys Base Vagrant Box : Ubuntu 14.04 Desktop: [box-cutter/boxes/ubuntu1404-desktop] (https://vagrantcloud.com/box-cutter/boxes/ubuntu1404-desktop)  
