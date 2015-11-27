@@ -6,7 +6,9 @@
 1. Download and Install [Vagrant] (https://www.vagrantup.com/downloads.html)
 2. Download and Install [VirtualBox] (https://www.virtualbox.org/wiki/Downloads)
 3. Install [vagrant-reload] (https://github.com/aidanns/vagrant-reload) plugin using the command :  
-    $ vagrant plugin install vagrant-reload
+```
+$ vagrant plugin install vagrant-reload
+```
 
 1. Install [vagrant] (https://www.vagrantup.com/downloads.html) and [virtualbox] (https://www.virtualbox.org/wiki/Downloads) (preferrably latest versions) on host machine.
 2. Download the [Vagrantfile] (Vagrantfile) from [build-vm] () folder to the folder on your machine where you want to install the VM.
