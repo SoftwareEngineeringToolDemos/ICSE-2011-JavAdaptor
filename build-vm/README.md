@@ -29,10 +29,8 @@
 #### Note :   
  -  After provisioning completes the Virtual Machine will reboot but wait for the startup applications to load.  
  -  Default VM Login Credentials:  
-    ```  
-    user: vagrant  </br>
+    user: vagrant  
     password: vagrant  
-    ```  
 
 #### Acknowledgements :  
  -  Deploys Base Vagrant Box : Ubuntu 14.04 Desktop: [box-cutter/boxes/ubuntu1404-desktop] (https://vagrantcloud.com/box-cutter/boxes/ubuntu1404-desktop)  
