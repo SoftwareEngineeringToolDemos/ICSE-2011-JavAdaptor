@@ -3,7 +3,7 @@
 ### Here's how you can spin up a Virtual Machine for JavAdaptor ...  
 
 #### Pre-requisites:  
-1. Obtain the JavAdaptor plugin (.jar file) from the [Authors] (http://cazzola.di.unimi.it/). Since the tool is not open-source the plugin is not available on this repo.  
+1. Obtain the *JavAdaptor plugin* (.jar file) from the [Authors] (http://cazzola.di.unimi.it/). Since the tool is *not open-source* the plugin is not available on this repo.  
 2. Place the JavAdaptor plugin in the folder where you wish to install the Virtual Machine.  
 3. Download and Install [Vagrant] (https://www.vagrantup.com/downloads.html)  
 4. Download and Install [VirtualBox] (https://www.virtualbox.org/wiki/Downloads)  
