@@ -18,7 +18,7 @@
     $ git clone https://github.com/SoftwareEngineeringToolDemos/ICSE-2011-JavAdaptor.git  
     ```  
 2. Note that the JavAdaptor plugin should already be present in this VM installation folder (see Pre-requisites above).  
-3. Navigate to that folder (via bash on Linux or Command Prompt on Windows) and execute the command :  
+3. Navigate to VM installation folder (via bash on Linux or Command Prompt on Windows) and execute the command :  
     ```  
     $ vagrant up --provider virtualbox  
     ```  
