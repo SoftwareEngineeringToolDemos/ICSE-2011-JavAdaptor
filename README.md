@@ -12,9 +12,8 @@ This repository _is not_ the original repository for this tool. Here are some li
 - Updated Publication : Mario Pukall, Christian Kästner, Walter Cazzola, Sebastian Götz, Alexander Grebhahn, Reimar Schöter, and Gunter Saake, “JavAdaptor — Flexible Runtime Updates of Java Applications”, Software — Practice and Experience, vol. 43, no. 2, pp. 153–185, February 2013 [PDF] (http://www.cs.cmu.edu/~ckaestne/pdf/SPE12_JavAdaptor.pdf).
 
 In this repository, for JavAdaptor you will find:
-
-- :x: Source code (not available)
-- :x: Executable tool (not available)
-- :x: Virtual machine containing tool (not available)
+* :x: Source code (not available)
+* :x: Executable tool (not available)
+* :x: Virtual machine containing tool (not available
 
 This repository was constructed by [Sumit K Tomer] (https://github.com/sktomer) under the supervision of [Emerson Murphy-Hill] (https://github.com/CaptainEmerson). Thanks to [Walter Cazzola] (http://cazzola.di.unimi.it/) for his help in establishing this repository. 
